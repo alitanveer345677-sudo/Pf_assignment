@@ -1,4 +1,5 @@
 #include<stdio.h>
+//this is just a comment
 
 int main() {
     char  studname[10];
@@ -23,7 +24,7 @@ int main() {
     printf("\nYour student id is %.0f",studid);
     printf("\nYour Your lab completion percentage is %.2f",Lab_completion_perc);
     printf("\nYour total academic score is %.0f",total_score);
-    
+     
     
     
     
